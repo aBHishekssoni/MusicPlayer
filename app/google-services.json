@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "237495718542",
+    "project_id": "musicplayer-8e803",
+    "storage_bucket": "musicplayer-8e803.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:237495718542:android:f343c62af7d841cd2aefdf",
+        "android_client_info": {
+          "package_name": "com.abhishek_soni.musicplayer"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAZkvqI2jFHzggHoG3AEQIWseDUp7QJTr8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
